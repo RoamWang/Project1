@@ -13,6 +13,9 @@ dev3
 dev4
 dev5
 dev6
+创建版本2.0
+fixbug1
+fix #bug2
 dev continue1
 dev continue2
 dev continue3
