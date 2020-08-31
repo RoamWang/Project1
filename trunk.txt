@@ -6,3 +6,4 @@
 6
 feature1
 feature2
+发布版本1.0
